@@ -12,8 +12,8 @@ from datetime import datetime
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-SCRAPPED_DATA_FOLDER = "ScrappedData"
-OUTPUT_FOLDER = "RAGData"
+SCRAPPED_DATA_FOLDER = "../ScrappedData"
+OUTPUT_FOLDER = "../RAGData"
 
 
 def create_output_folder():

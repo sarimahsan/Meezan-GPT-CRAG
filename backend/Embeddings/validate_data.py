@@ -12,8 +12,8 @@ import logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-SCRAPPED_DATA_FOLDER = "ScrappedData"
-RAG_DATA_FOLDER = "RAGData"
+SCRAPPED_DATA_FOLDER = "../ScrappedData"
+RAG_DATA_FOLDER = "../RAGData"
 
 
 def analyze_text_quality(text):
