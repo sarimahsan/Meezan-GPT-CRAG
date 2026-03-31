@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "started_at": "2026-03-31T18:15:25.513663",
+  "finished_at": "2026-03-31T18:15:51.785618",
+  "duration_seconds": 26.271949291229248,
+  "device": "cuda",
+  "model": "sentence-transformers/all-mpnet-base-v2",
+  "embedding_dimension": 768,
+  "total_documents": 626,
+  "total_characters": 1527268,
+  "avg_characters_per_doc": 2439.7252396166136,
+  "batch_size": 2048,
+  "normalize_embeddings": true,
+  "fp16": true,
+  "outputs": {
+    "embeddings_npy": "/content/Embeddings/bge_base_en_v1_5_embeddings.npy",
+    "metadata_manifest_jsonl": "/content/Embeddings/bge_base_en_v1_5_manifest.jsonl"
+  },
+  "throughput_docs_per_sec": 23.827695199190522,
+  "throughput_chars_per_sec": 58133.029379356725,
+  "gpu_peak_memory_mb": 9258.85888671875,
+  "cpu_cores_used": 2,
+  "torch_num_threads": 2,
+  "input_sources": {
+    "input_jsonl": "/content/RAGData/embeddings.jsonl",
+    "input_dir": "/content/ScrappedData"
+  },
+  "notes": [
+    "Embeddings are written as float32 .npy in row order matching metadata_manifest_jsonl",
+    "If query embeddings are needed for retrieval, use the same model for query encoding",
+    "System RAM total GB: 12.67"
+  ]
+}

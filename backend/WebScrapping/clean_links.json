@@ -1,0 +1,630 @@
+{
+    "base_url": "https://www.meezanbank.com/",
+    "total_valid_pages": 124,
+    "skipped_pages": 2,
+    "crawl_time_sec": 50.63,
+    "links": [
+        "https://www.meezanbank.com",
+        "https://www.meezanbank.com/asset-management",
+        "https://www.meezanbank.com/sme-banking",
+        "https://www.meezanbank.com/social-media",
+        "https://www.meezanbank.com/downloads",
+        "https://www.meezanbank.com/ur",
+        "https://www.meezanbank.com/bank-accounts",
+        "https://www.meezanbank.com/labbaik-travel-asaan",
+        "https://www.meezanbank.com/roshan-digital-account",
+        "https://www.meezanbank.com/investor-relations",
+        "https://www.meezanbank.com/awards-and-recognition",
+        "https://www.meezanbank.com/home-remittance",
+        "https://www.meezanbank.com/iiib",
+        "https://www.meezanbank.com/Policies",
+        "https://www.meezanbank.com/car-ijarah",
+        "https://www.meezanbank.com/financial-information",
+        "https://www.meezanbank.com/cash-management",
+        "https://www.meezanbank.com/careers",
+        "https://www.meezanbank.com/historical-profit-rates",
+        "https://www.meezanbank.com/rupee-current-account",
+        "https://www.meezanbank.com/placement-of-financial-statements-for-the-year-ended-december-31-2025",
+        "https://www.meezanbank.com/export-financing",
+        "https://www.meezanbank.com/women-account",
+        "https://www.meezanbank.com/treasury",
+        "https://www.meezanbank.com/easy-home",
+        "https://www.meezanbank.com/corporate-banking",
+        "https://www.meezanbank.com/investor-relations/financial-information",
+        "https://www.meezanbank.com/ways-to-bank",
+        "https://www.meezanbank.com/Deposit-Protection-Mechanism",
+        "https://www.meezanbank.com/commercial-vehicles",
+        "https://www.meezanbank.com/iban-generator",
+        "https://www.meezanbank.com/premium-banking",
+        "https://www.meezanbank.com/commercial-banking",
+        "https://www.meezanbank.com/freedom-bank-network-expansion",
+        "https://www.meezanbank.com/about-us",
+        "https://www.meezanbank.com/business-bank-accounts",
+        "https://www.meezanbank.com/card-discounts",
+        "https://www.meezanbank.com/financial-institutions",
+        "https://www.meezanbank.com/calculators",
+        "https://www.meezanbank.com/media-centre",
+        "https://www.meezanbank.com/eipo",
+        "https://www.meezanbank.com/shariah-advisory-services",
+        "https://www.meezanbank.com/Disclaimer",
+        "https://www.meezanbank.com/glossary-of-terms",
+        "https://www.meezanbank.com/agricultural-finance",
+        "https://www.meezanbank.com/contact-us",
+        "https://www.meezanbank.com/meezan-kafalah",
+        "https://www.meezanbank.com/digital-bank-accounts",
+        "https://www.meezanbank.com/investment-banking",
+        "https://www.meezanbank.com/info-for-investors",
+        "https://www.meezanbank.com/kazakhstan-bilateral-trade-mou",
+        "https://www.meezanbank.com/investor-relations/info-for-investors",
+        "https://www.meezanbank.com/csr",
+        "https://www.meezanbank.com/consumer-financial-protection-framework",
+        "https://www.meezanbank.com/investor-relations-contact-us",
+        "https://www.meezanbank.com/freelancer-accounts",
+        "https://www.meezanbank.com/branch-locator",
+        "https://www.meezanbank.com/sitemap",
+        "https://www.meezanbank.com/term-certificates",
+        "https://www.meezanbank.com/publications",
+        "https://www.meezanbank.com/best-bank-of-pakistan-2023",
+        "https://www.meezanbank.com/Governance",
+        "https://www.meezanbank.com/senior-citizen-account",
+        "https://www.meezanbank.com/sohni-dharti-remittance-account",
+        "https://www.meezanbank.com/plus-account",
+        "https://www.meezanbank.com/dollar-current-account",
+        "https://www.meezanbank.com/express-current-account",
+        "https://www.meezanbank.com/euro-current-account",
+        "https://www.meezanbank.com/rupee-savings-account",
+        "https://www.meezanbank.com/pound-current-account",
+        "https://www.meezanbank.com/smart-wallet-current",
+        "https://www.meezanbank.com/euro-savings-account",
+        "https://www.meezanbank.com/bachat-account",
+        "https://www.meezanbank.com/dollar-savings-account",
+        "https://www.meezanbank.com/teens-club-account",
+        "https://www.meezanbank.com/smart-wallet-savings",
+        "https://www.meezanbank.com/kids-club-account",
+        "https://www.meezanbank.com/smart-remittance-wallet",
+        "https://www.meezanbank.com/asaan-current-account",
+        "https://www.meezanbank.com/labbaik-account",
+        "https://www.meezanbank.com/asaan-remittance-account",
+        "https://www.meezanbank.com/express-savings-account",
+        "https://www.meezanbank.com/roshan-resident-account",
+        "https://www.meezanbank.com/pound-savings-account",
+        "https://www.meezanbank.com/asaan-savings-account",
+        "https://www.meezanbank.com/asaan-mobile-account",
+        "https://www.meezanbank.com/smart-disbursement-solution",
+        "https://www.meezanbank.com/roshan-samaji-khidmat",
+        "https://www.meezanbank.com/naya-pakistan-certificate",
+        "https://www.meezanbank.com/govt-hajj-2026",
+        "https://www.meezanbank.com/roshan-pension-plan",
+        "https://www.meezanbank.com/invest-in-psx",
+        "https://www.meezanbank.com/roshan-apna-ghar",
+        "https://www.meezanbank.com/regulatory-announcements",
+        "https://www.meezanbank.com/iiib-certificates",
+        "https://www.meezanbank.com/analyst-presentation",
+        "https://www.meezanbank.com/unclaimed",
+        "https://www.meezanbank.com/apni-bike",
+        "https://www.meezanbank.com/consumer-ease",
+        "https://www.meezanbank.com/solar-panel-financing",
+        "https://www.meezanbank.com/meezan-ebiz-plus-lite",
+        "https://www.meezanbank.com/payroll-partner",
+        "https://www.meezanbank.com/corporate-payroll-card",
+        "https://www.meezanbank.com/why-meezan",
+        "https://www.meezanbank.com/business-term-certificates",
+        "https://www.meezanbank.com/life-at-meezan",
+        "https://www.meezanbank.com/meezan-ebiz-plus",
+        "https://www.meezanbank.com/visa-debit-card",
+        "https://www.meezanbank.com/meezan-women-first",
+        "https://www.meezanbank.com/apna-ghar-program",
+        "https://www.meezanbank.com/meezan-women-entrepreneurs",
+        "https://www.meezanbank.com/titanium-debit-card",
+        "https://www.meezanbank.com/payment",
+        "https://www.meezanbank.com/paypak-debit-card",
+        "https://www.meezanbank.com/world-debit-card",
+        "https://www.meezanbank.com/fcy-debit-card",
+        "https://www.meezanbank.com/visa-infinite-debit-card",
+        "https://www.meezanbank.com/organizational-chart",
+        "https://www.meezanbank.com/roshan-digital-business-account",
+        "https://www.meezanbank.com/karobari-munafa-account",
+        "https://www.meezanbank.com/islamic-institutions-account",
+        "https://www.meezanbank.com/easy-home-calculator",
+        "https://www.meezanbank.com/apni-bike-calculator",
+        "https://www.meezanbank.com/solar-panel-calculator"
+    ],
+    "details": [
+        {
+            "url": "https://www.meezanbank.com",
+            "links_found": 63
+        },
+        {
+            "url": "https://www.meezanbank.com/asset-management",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/sme-banking",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/social-media",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/downloads",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/ur",
+            "links_found": 17
+        },
+        {
+            "url": "https://www.meezanbank.com/bank-accounts",
+            "links_found": 77
+        },
+        {
+            "url": "https://www.meezanbank.com/labbaik-travel-asaan",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/roshan-digital-account",
+            "links_found": 57
+        },
+        {
+            "url": "https://www.meezanbank.com/investor-relations",
+            "links_found": 53
+        },
+        {
+            "url": "https://www.meezanbank.com/awards-and-recognition",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/home-remittance",
+            "links_found": 54
+        },
+        {
+            "url": "https://www.meezanbank.com/iiib",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/Policies",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/car-ijarah",
+            "links_found": 54
+        },
+        {
+            "url": "https://www.meezanbank.com/financial-information",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/cash-management",
+            "links_found": 55
+        },
+        {
+            "url": "https://www.meezanbank.com/careers",
+            "links_found": 52
+        },
+        {
+            "url": "https://www.meezanbank.com/historical-profit-rates",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/rupee-current-account",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/placement-of-financial-statements-for-the-year-ended-december-31-2025",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/export-financing",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/women-account",
+            "links_found": 54
+        },
+        {
+            "url": "https://www.meezanbank.com/treasury",
+            "links_found": 53
+        },
+        {
+            "url": "https://www.meezanbank.com/easy-home",
+            "links_found": 56
+        },
+        {
+            "url": "https://www.meezanbank.com/corporate-banking",
+            "links_found": 53
+        },
+        {
+            "url": "https://www.meezanbank.com/investor-relations/financial-information",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/ways-to-bank",
+            "links_found": 57
+        },
+        {
+            "url": "https://www.meezanbank.com/Deposit-Protection-Mechanism",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/commercial-vehicles",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/iban-generator",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/premium-banking",
+            "links_found": 53
+        },
+        {
+            "url": "https://www.meezanbank.com/commercial-banking",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/freedom-bank-network-expansion",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/about-us",
+            "links_found": 52
+        },
+        {
+            "url": "https://www.meezanbank.com/business-bank-accounts",
+            "links_found": 65
+        },
+        {
+            "url": "https://www.meezanbank.com/card-discounts",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/financial-institutions",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/calculators",
+            "links_found": 53
+        },
+        {
+            "url": "https://www.meezanbank.com/media-centre",
+            "links_found": 1113
+        },
+        {
+            "url": "https://www.meezanbank.com/eipo",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/shariah-advisory-services",
+            "links_found": 52
+        },
+        {
+            "url": "https://www.meezanbank.com/Disclaimer",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/glossary-of-terms",
+            "links_found": 53
+        },
+        {
+            "url": "https://www.meezanbank.com/agricultural-finance",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/contact-us",
+            "links_found": 55
+        },
+        {
+            "url": "https://www.meezanbank.com/meezan-kafalah",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/digital-bank-accounts",
+            "links_found": 58
+        },
+        {
+            "url": "https://www.meezanbank.com/investment-banking",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/info-for-investors",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/kazakhstan-bilateral-trade-mou",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/investor-relations/info-for-investors",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/csr",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/consumer-financial-protection-framework",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/investor-relations-contact-us",
+            "links_found": 52
+        },
+        {
+            "url": "https://www.meezanbank.com/freelancer-accounts",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/branch-locator",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/sitemap",
+            "links_found": 170
+        },
+        {
+            "url": "https://www.meezanbank.com/term-certificates",
+            "links_found": 56
+        },
+        {
+            "url": "https://www.meezanbank.com/publications",
+            "links_found": 53
+        },
+        {
+            "url": "https://www.meezanbank.com/best-bank-of-pakistan-2023",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/Governance",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/senior-citizen-account",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/sohni-dharti-remittance-account",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/plus-account",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/dollar-current-account",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/express-current-account",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/euro-current-account",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/rupee-savings-account",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/pound-current-account",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/smart-wallet-current",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/euro-savings-account",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/bachat-account",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/dollar-savings-account",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/teens-club-account",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/smart-wallet-savings",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/kids-club-account",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/smart-remittance-wallet",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/asaan-current-account",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/labbaik-account",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/asaan-remittance-account",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/express-savings-account",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/roshan-resident-account",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/pound-savings-account",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/asaan-savings-account",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/asaan-mobile-account",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/smart-disbursement-solution",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/roshan-samaji-khidmat",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/naya-pakistan-certificate",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/govt-hajj-2026",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/roshan-pension-plan",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/invest-in-psx",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/roshan-apna-ghar",
+            "links_found": 52
+        },
+        {
+            "url": "https://www.meezanbank.com/regulatory-announcements",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/iiib-certificates",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/analyst-presentation",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/unclaimed",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/apni-bike",
+            "links_found": 54
+        },
+        {
+            "url": "https://www.meezanbank.com/consumer-ease",
+            "links_found": 54
+        },
+        {
+            "url": "https://www.meezanbank.com/solar-panel-financing",
+            "links_found": 54
+        },
+        {
+            "url": "https://www.meezanbank.com/meezan-ebiz-plus-lite",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/payroll-partner",
+            "links_found": 54
+        },
+        {
+            "url": "https://www.meezanbank.com/corporate-payroll-card",
+            "links_found": 53
+        },
+        {
+            "url": "https://www.meezanbank.com/why-meezan",
+            "links_found": 52
+        },
+        {
+            "url": "https://www.meezanbank.com/business-term-certificates",
+            "links_found": 57
+        },
+        {
+            "url": "https://www.meezanbank.com/life-at-meezan",
+            "links_found": 52
+        },
+        {
+            "url": "https://www.meezanbank.com/meezan-ebiz-plus",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/visa-debit-card",
+            "links_found": 54
+        },
+        {
+            "url": "https://www.meezanbank.com/meezan-women-first",
+            "links_found": 55
+        },
+        {
+            "url": "https://www.meezanbank.com/apna-ghar-program",
+            "links_found": 52
+        },
+        {
+            "url": "https://www.meezanbank.com/meezan-women-entrepreneurs",
+            "links_found": 52
+        },
+        {
+            "url": "https://www.meezanbank.com/titanium-debit-card",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/payment",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/paypak-debit-card",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/world-debit-card",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/fcy-debit-card",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/visa-infinite-debit-card",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/organizational-chart",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/roshan-digital-business-account",
+            "links_found": 50
+        },
+        {
+            "url": "https://www.meezanbank.com/karobari-munafa-account",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/islamic-institutions-account",
+            "links_found": 51
+        },
+        {
+            "url": "https://www.meezanbank.com/easy-home-calculator",
+            "links_found": 54
+        },
+        {
+            "url": "https://www.meezanbank.com/apni-bike-calculator",
+            "links_found": 54
+        },
+        {
+            "url": "https://www.meezanbank.com/solar-panel-calculator",
+            "links_found": 54
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+Embedding Run Report
+================================================================================
+Status                 : success
+Started At             : 2026-03-31T18:15:25.513663
+Finished At            : 2026-03-31T18:15:51.785618
+Duration (sec)         : 26.272
+Model                  : sentence-transformers/all-mpnet-base-v2
+Device                 : cuda
+Embedding Dimension    : 768
+Documents              : 626
+Total Characters       : 1527268
+Avg Chars / Doc        : 2439.73
+Batch Size             : 2048
+Normalize Embeddings   : True
+FP16                   : True
+Throughput (docs/sec)  : 23.83
+Throughput (chars/sec) : 58133.03
+GPU Peak Memory (MB)   : 9258.86
+CPU Cores Used         : 2
+Torch Num Threads      : 2
+
+Outputs:
+- Embeddings (.npy): /content/Embeddings/bge_base_en_v1_5_embeddings.npy
+- Metadata (.jsonl): /content/Embeddings/bge_base_en_v1_5_manifest.jsonl
+
+Notes:
+- Embeddings are written as float32 .npy in row order matching metadata_manifest_jsonl
+- If query embeddings are needed for retrieval, use the same model for query encoding
+- System RAM total GB: 12.67

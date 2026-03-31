@@ -1,0 +1,30 @@
+{
+  "rag_config": {
+    "data_source": "ScrappedData",
+    "prepared_data": "RAGData/embeddings.jsonl",
+    "embedding_config": {
+      "model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384,
+      "chunk_size": 500,
+      "chunk_overlap": 50
+    },
+    "retrieval_config": {
+      "top_k": 5,
+      "similarity_threshold": 0.7,
+      "reranking": true
+    },
+    "vector_store": {
+      "type": "faiss",
+      "index_path": "indexes/faiss.index"
+    }
+  },
+  "prepared_at": "2026-03-31T23:04:04.005759",
+  "instructions": [
+    "1. Use the embeddings.jsonl file for creating vector embeddings",
+    "2. Each line is a JSON document with 'id', 'text', and 'metadata'",
+    "3. Recommended embedding model: sentence-transformers/all-MiniLM-L6-v2",
+    "4. Store embeddings in a vector database (FAISS, Pinecone, etc.)",
+    "5. Use the 'id' field as the unique identifier for each chunk",
+    "6. The 'metadata' contains source and context information"
+  ]
+}
