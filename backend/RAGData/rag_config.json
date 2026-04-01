@@ -18,7 +18,7 @@
       "index_path": "indexes/faiss.index"
     }
   },
-  "prepared_at": "2026-03-31T23:04:04.005759",
+  "prepared_at": "2026-04-01T22:45:33.541882",
   "instructions": [
     "1. Use the embeddings.jsonl file for creating vector embeddings",
     "2. Each line is a JSON document with 'id', 'text', and 'metadata'",
